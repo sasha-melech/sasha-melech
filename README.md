@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sasha!
-- 👀 I’m interested in music, games, and korean
-- 🌱 I’m currently learning Electrical Engineering at WCU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in music production, magic the gathering, and engineering
+- 🌱 I’m currently learning Electrical Engineering, Computer Science, and Applied Mathematics at WCU
+- 💞️ I’m looking to collaborate on whatever I can approach
+- 📫 How to reach me: email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been to 27 states
 
