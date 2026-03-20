@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Electrical Engineering, Computer Science, and Applied Mathematics at WCU
 - 💞️ I’m looking to collaborate on whatever I can approach
 - 📫 How to reach me: email
-- 😄 Pronouns: he/him
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: I've been to 27 states
 
 <!---
